@@ -11,6 +11,6 @@ $ echo "The quick brown fox jumps over the lazy dog" | tokc -model mistralai/Mis
 
 ## Install
 
-``sh
+```sh
 go install github.com/WinPooh32/tokc@latest
-``
+```
